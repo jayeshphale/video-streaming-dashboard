@@ -122,8 +122,7 @@ const videoSources = [
 - Push your repository to GitHub.
 - Deploy to [Vercel](https://vercel.com/) or [Netlify](https://netlify.com/).
 - If MediaMTX is not public, replace HLS URLs with public test streams.
-- **Live Demo:**  
-  [https://video-dashboard-seven.vercel.app/](https://video-dashboard-seven.vercel.app/)
+
 
 ---
 
